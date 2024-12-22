@@ -104,9 +104,15 @@ function add(a, b) {
    npm run compile
    ```
 
-4. Launch the extension in VS Code:
+4. Package the extension
 
-   - Press `F5` to start a new VS Code session with Tagit enabled.
+   ```bash
+   vsce package
+   ```
+
+5. Launch the extension in VS Code:
+
+   - Improve the .vsx extension in your vscode and use it.
 
 ## Known Issues
 
@@ -144,10 +150,6 @@ Contributions are welcome! To contribute:
    ```
 
 5. Open a pull request.
-
-## License
-
-Tagit is licensed under the [MIT License](LICENSE).
 
 ---
 
