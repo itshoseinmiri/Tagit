@@ -1,4 +1,8 @@
-# ![Tagit Logo](/images/tagit.png){ width=40px } Tagit - AI-Powered JSDoc Comment Generator
+<div>
+    <img src="/images/tagit.png" width="40px" />
+</div>
+
+# Tagit - AI-Powered JSDoc Comment Generator
 
 Tagit is a Visual Studio Code extension that generates JSDoc-style comments for your JavaScript and TypeScript code using AI. By leveraging the power of GPT-3.5, Tagit provides intelligent and context-aware comments to improve your code documentation process.
 
