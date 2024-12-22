@@ -88,7 +88,7 @@ function add(a, b) {
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/tagit
+   git clone https://github.com/itshoseinmiri/tagit
    cd tagit
    ```
 
