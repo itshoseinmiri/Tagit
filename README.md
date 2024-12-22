@@ -19,13 +19,12 @@ Tagit uses the `GPT-3.5-turbo` model to analyze the selected code and generate r
 
 ## Installation
 
+1. You can download the extension from [vscode marketplace](https://marketplace.visualstudio.com/items?itemName=Webonia.tagit)
+    Or 
+
 1. Clone this repository or download the extension from the Visual Studio Code Marketplace (coming soon!).
 2. Open the command palette in VS Code (`Ctrl+Shift+P` or `Cmd+Shift+P` on macOS).
 3. Select **Extensions: Install from VSIX...** and choose the downloaded file.
-
-Or
-
-1. Install the extension from [vscode marketplace](https://marketplace.visualstudio.com/items?itemName=Webonia.tagit)
 
 ## Usage
 
